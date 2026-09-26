@@ -26,7 +26,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 
 
-## Convolutional Neural Networks
+## Convolutional Neural Networks for Computer Vision
 
 
 #### Basic
@@ -131,6 +131,14 @@ A collection of various deep learning architectures, models, and tips for Tensor
 | ResNet-101| [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet101-cifar10.ipynb)  |
 | ResNet-152 Gender Classifier| [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet152-celeba.ipynb)  |
 
+
+---
+
+## Convolutional Neural Networks for Natural Language Processing
+
+|Title | Dataset | Description | Notebooks |
+| --- | --- | --- | --- |
+| Text CNN for Sentiment Classification | [IMDb movie reviews](https://ai.stanford.edu/~amaas/data/sentiment/) | Word embeddings, 1D convolutions, and global max pooling for sentiment classification | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn-nlp/cnn_imdb.ipynb) |
 
 ---
 
